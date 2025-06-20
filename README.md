@@ -16,7 +16,7 @@
 
 ```text
 Kubernetes   •   Docker   •   Azure & AWS   •   GitHub Actions   •   Azure Pipelines
-Helm Charts  •   Rancher  •   Prometheus + Grafana   •   Terraform   •   Python & Bash
+Rabbitmq     •   Rancher  •   Prometheus + Grafana   •   Terraform   •   Python & Bash
 ```
 ---
 📌 Key Projects & Case Studies
