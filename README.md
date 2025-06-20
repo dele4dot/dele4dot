@@ -9,8 +9,6 @@
 - 🔐 **DevSecOps Engineer** at Access Bank – supporting 15+ subsidiaries across Africa
 - ☁️ **Cloud-Native Enthusiast** – managing Kubernetes clusters (SUSE Rancher, AKS)
 - 🔁 **Automation Champion** – CI/CD pipelines using Azure Pipelines & GitHub Actions
-- 🛡️ Exploring **Cybersecurity frameworks** for regulated financial institutions
-- 🧠 Researching **Blockchain-based digital identity** for financial inclusion in Africa
 
 ---
 
