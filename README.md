@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dotun Oyegoke — DevSecOps | Automation | Cloud-Native Advocate
+# 👋 Hi, I'm Dotun Oyegoke — DevOps | Cloud-Native Advocate
 
 > Passionate about helping businesses automate operations and build resilient platforms through secure, cloud-native technologies.
 
