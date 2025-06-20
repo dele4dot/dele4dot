@@ -17,3 +17,15 @@
 ```text
 Kubernetes   •   Docker   •   Azure & AWS   •   GitHub Actions   •   Azure Pipelines
 Helm Charts  •   Rancher  •   Prometheus + Grafana   •   Terraform   •   Python & Bash
+```
+---
+📌 Key Projects & Case Studies
+
+🏦 Modernized Deployment for Internet Banking App
+→ GitOps using Rancher Fleet, integrated with AGIC and Azure WAF
+
+🔐 Secrets Management at Scale
+→ Deployed Vault & CyberArk Conjur across Kubernetes workloads
+
+📈 Observability Engineering
+→ Full-stack Prometheus/Grafana with alerts to Slack, Teams, and Email
