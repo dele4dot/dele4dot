@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Dotun Oyegoke — DevSecOps | Automation | Cloud-Native Advocate
 
-<!--
-**dele4dot/dele4dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Passionate about helping businesses automate operations and build resilient platforms through secure, cloud-native technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Do
+
+- 🔐 **DevSecOps Engineer** at Access Bank – supporting 15+ subsidiaries across Africa
+- ☁️ **Cloud-Native Enthusiast** – managing Kubernetes clusters (SUSE Rancher, AKS)
+- 🔁 **Automation Champion** – CI/CD pipelines using Azure Pipelines & GitHub Actions
+- 🛡️ Exploring **Cybersecurity frameworks** for regulated financial institutions
+- 🧠 Researching **Blockchain-based digital identity** for financial inclusion in Africa
+
+---
+
+## 🛠️ Technologies I Work With
+
+```text
+Kubernetes   •   Docker   •   Azure & AWS   •   GitHub Actions   •   Azure Pipelines
+Helm Charts  •   Rancher  •   Prometheus + Grafana   •   Terraform   •   Python & Bash
